@@ -4126,20 +4126,3 @@ h6 {
 
 
 /*# sourceMappingURL=style.css.map */
-
-.cv-btn {
-    position: absolute;
-    display: inline-block;
-    text-decoration: none;
-    margin-left: 200px;
-    margin-bottom: 40px;
-    color: #fff;
-    font-weight: 700;
-    position: absolute;
-    bottom: 30px;
-    font-family: "Baloo 2", sans-serif;
-    border-radius: 40px;
-    transition: 0.4s;
-    padding: 8px;
-    background: linear-gradient(to right, #1f65e6, #240b36);
-}
